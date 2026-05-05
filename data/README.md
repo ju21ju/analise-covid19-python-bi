@@ -6,3 +6,8 @@ Os dados brutos foram obtidos a partir de repositórios públicos globais, garan
 
 **Tratamento de Dados:**
 Foram aplicadas técnicas de limpeza para lidar com dados ausentes (NaN) e normalização de nomes de países para garantir a precisão dos cruzamentos geográficos.
+
+## Estrutura de Arquivos nesta pasta
+
+*   **`dados_covid_limpos.csv`**: Base de dados final estruturada após o processo de limpeza (limpeza de valores nulos e padronização).
+*   **`projeto-1-483023...json`**: Arquivo de configuração/credenciais utilizado para a integração com a API de coleta de dados.
